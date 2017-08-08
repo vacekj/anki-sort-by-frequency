@@ -1,0 +1,11 @@
+{
+  "name": "anki-sort-by-frequency",
+  "version": "1.0.0",
+  "description": "Sorts Anki cards by frequency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josef Vacek",
+  "license": "ISC"
+}
