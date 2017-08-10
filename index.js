@@ -1,7 +1,6 @@
 let jsonfile = require('jsonfile');
 let JSONStream = require('JSONStream');
 let fs = require('fs');
-var natural = require('natural');
 
 // Fn to remove dupes from array
 var removeDuplicates = (array) => {
