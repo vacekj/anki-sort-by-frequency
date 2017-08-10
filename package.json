@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Sorts Anki cards by frequency",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JouzaLoL/anki-sort-by-frequency.git"
   },
   "author": "Josef Vacek",
   "license": "ISC",
