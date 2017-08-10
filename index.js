@@ -3,33 +3,44 @@ let JSONStream = require('JSONStream');
 let fs = require('fs');
 var natural = require('natural');
 
+// Stats
+let statistics = {
+  cardsImported: 0,
+  cardsExported: 0,
+  cardsIgnored: 0,
+  dbEntries: 0
+};
+
 // Load the deck
-let rawdeck = jsonfile.readFileSync('deck.json');
-// Extract the word
+let rawdeck = jsonfile.readFileSync('input/deck.json');
+
+// Extract and normalize cards into words
 let deck = rawdeck.map((card) => {
-  if (card.Front) {
-    return natural.PorterStemmer.stem(card.Front) ? natural.PorterStemmer.stem(card.Front) : card.Front // Stem the word (consignment -> consign)
-  }
-  else {
-    return card.Front;
-  }
+  return card.Front ? normalized = card.Front.trim().replace('to ','').replace('a ','') : card.Front;
 });
+statistics.cardsImported = deck.length;
 
 // Load the DB using streams
 let stream = JSONStream.parse('*');
-var readStream = fs.createReadStream('freq_en.json');
+var readStream = fs.createReadStream('db/freq_en.json');
 readStream.pipe(stream);
 
 let result = [];
+let dbEntries = 0;
 
 stream.on('data', function (data) {
+  dbEntries++;
   if (deck.includes(data.word)) {
+    if (data.word == 'solstice')
+       l = l;
     result.push(data);
+    deck.splice(deck.indexOf(data.word), 1)
   }
 });
 
 stream.on('end', function (data) {
-  sort()
+  statistics.dbEntries = dbEntries;
+  sort();
 });
 
 function sort() {
@@ -44,14 +55,32 @@ function sort() {
     return 0;
   });
 
-  // Write result to file
-  jsonfile.writeFileSync('result.json', result);
+  statistics.cardsExported = result.length;
+  statistics.cardsIgnored = statistics.cardsImported - result.length;
+
+  // Write result
+  jsonfile.writeFileSync('output/result.json', result);
   let wordCount = 0;
-  var logger = fs.createWriteStream('result.txt');
+
+  var resultStream = fs.createWriteStream('output/result.txt');
   result.forEach((element) => {
-    logger.write(element.frequency + '\t' + element.word + '\n');
+    resultStream.write(element.frequency + '\t' + element.word + '\n');
     wordCount++;
   });
+  resultStream.end();
+
+  var deckStream = fs.createWriteStream('output/ignored.txt');
+  deck.forEach((element) => {
+    deckStream.write(element + '\t' + element + '\n');
+    wordCount++;
+  });
+  deckStream.end();
   console.log('Total words exported: ' + wordCount);
-  logger.end();
+  console.log(`Statistics:
+  Words imported: ${statistics.cardsImported}
+  Words exported: ${statistics.cardsExported}
+  Words not found: ${statistics.cardsIgnored} (${deck.length})
+  DB entries: ${statistics.dbEntries}
+  `);
+
 }

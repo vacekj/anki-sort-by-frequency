@@ -1,0 +1,200 @@
+lalmohada	lalmohada
+lcintura	lcintura
+lcuenta	lcuenta
+el cubierto	el cubierto
+atropellar	atropellar
+ltienda	ltienda
+el cuňado	el cuňado
+el corriente	el corriente
+conformar	conformar
+enterarse	enterarse
+&nbsp;consolar	&nbsp;consolar
+afirmar	afirmar
+jubilado	jubilado
+jubilo	jubilo
+lsábana	lsábana
+apretada	apretada
+las pestaňas	las pestaňas
+conservar	conservar
+cualidad	cualidad
+estatura	estatura
+reconocer	reconocer
+recorrer	recorrer
+chaleco	chaleco
+fregar	fregar
+check-in desk	check-in desk
+boarding card/pass	boarding card/pass
+petrol station	petrol station
+traffic lights	traffic lights
+petrol station	petrol station
+traffic lights	traffic lights
+rush hour	rush hour
+parking fine	parking fine
+pedestrian area	pedestrian area
+cycle lane	cycle lane
+taxi rank	taxi rank
+car park	car park
+ticket office	ticket office
+baggage reclaim	baggage reclaim
+los cinturones	los cinturones
+adelgazar	adelgazar
+ángulo	ángulo
+girar los ojos	girar los ojos
+aňadir	aňadir
+aňojo	aňojo
+apostar por	apostar por
+pasar laspiradora	pasar laspiradora
+arrugado	arrugado
+batir	batir
+bolleríindustrial	bolleríindustrial
+cocer, cocinar	cocer, cocinar
+competidor	competidor
+concertar	concertar
+conciudadano	conciudadano
+confirmar	confirmar
+consecuencia	consecuencia
+consumidor	consumidor
+contenido	contenido
+cucharada	cucharada
+decorar	decorar
+enfriar	enfriar
+envejecimiento	envejecimiento
+esperanzde vida	esperanzde vida
+fregar	fregar
+freír	freír
+fuego lento	fuego lento
+furgoneta	furgoneta
+grabar	grabar
+guiso	guiso
+hábialimenticio	hábialimenticio
+hierbabuena	hierbabuena
+incorporación	incorporación
+instantáneo	instantáneo
+lácteos	lácteos
+lavavajillas	lavavajillas
+leche evaporada	leche evaporada
+legumbre	legumbre
+licuadora	licuadora
+llanero	llanero
+mortero	mortero
+obligación	obligación
+paradoja	paradoja
+partir en mitades	partir en mitades
+puré	puré
+raíz	raíz
+reflejar	reflejar
+reposar	reposar
+respeca	respeca
+retirar del fuego	retirar del fuego
+reunir	reunir
+rodaja	rodaja
+sacar malas notas	sacar malas notas
+sazonar	sazonar
+seducir	seducir
+semilla	semilla
+jemný	jemný
+trepidante	trepidante
+nonagerian	nonagerian
+exultantly	exultantly
+quantifiability	quantifiability
+ARC	ARC
+Yank	Yank
+pre-race nerves	pre-race nerves
+steady pace	steady pace
+exchange rate	exchange rate
+tourist hot spots	tourist hot spots
+head somewhere	head somewhere
+rip off	rip off
+package holiday	package holiday
+piruleta	piruleta
+one too many (idiom)	one too many (idiom)
+do the trick (idiom)	do the trick (idiom)
+on top of all that (idiom)	on top of all that (idiom)
+small, not important	small, not important
+torment sb	torment sb
+the workload	the workload
+live up to	live up to
+rozmyslet si to	rozmyslet si to
+call off	call off
+speak up	speak up
+speak out	speak out
+think something over	think something over
+talk something over	talk something over
+talk down to	talk down to
+tell off	tell off
+tell apart	tell apart
+prep: be amazed	prep: be amazed
+prep: campaign	prep: campaign
+prep: an approval	prep: an approval
+prep: experienced&nbsp;	prep: experienced&nbsp;
+prep: be infected	prep: be infected
+prep: demand	prep: demand
+prep: owe	prep: owe
+prep: lecture&nbsp;	prep: lecture&nbsp;
+prep: be well-known	prep: be well-known
+prep: have an opportunity&nbsp;	prep: have an opportunity&nbsp;
+prep: typical&nbsp;	prep: typical&nbsp;
+prodigality	prodigality
+lutanist	lutanist
+indolently	indolently
+swarthiness	swarthiness
+pock-mark	pock-mark
+sostener	sostener
+regazo	regazo
+reprobatorio	reprobatorio
+malabarista	malabarista
+malabarismo	malabarismo
+lanzar	lanzar
+rendir	rendir
+procurar	procurar
+decurso	decurso
+frasco	frasco
+raciocinio	raciocinio
+trazado	trazado
+derrumbar	derrumbar
+sinfín	sinfín
+rehusar	rehusar
+desesperar	desesperar
+arrebatar	arrebatar
+inquietar	inquietar
+aproximar	aproximar
+agitar	agitar
+enseñanza	enseñanza
+hospedar	hospedar
+euthymia	euthymia
+pig pen	pig pen
+grouchy	grouchy
+flojo	flojo
+lalmohada	lalmohada
+spectacle	spectacle
+cinta	cinta
+slur	slur
+slew	slew
+gloat	gloat
+sterling	sterling
+solstice	solstice
+lento	lento
+meter	meter
+relinquish	relinquish
+ltienda	ltienda
+estrecho	estrecho
+adept	adept
+shabby	shabby
+shrine	shrine
+lcintura	lcintura
+lcuenta	lcuenta
+el cubierto	el cubierto
+desarrollo	desarrollo
+atropellar	atropellar
+prep: be amazed	prep: be amazed
+prep: campaign	prep: campaign
+prep: an approval	prep: an approval
+prep: experienced&nbsp;	prep: experienced&nbsp;
+prep: be infected	prep: be infected
+prep: demand	prep: demand
+prep: owe	prep: owe
+prep: lecture&nbsp;	prep: lecture&nbsp;
+prep: be well-known	prep: be well-known
+prep: have an opportunity&nbsp;	prep: have an opportunity&nbsp;
+prep: typical&nbsp;	prep: typical&nbsp;
+undefined	undefined
