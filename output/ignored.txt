@@ -1,9 +1,9 @@
-lalmohada	lalmohada
-lcintura	lcintura
-lcuenta	lcuenta
+la almohada	la almohada
+la cintura	la cintura
+la cuenta	la cuenta
 el cubierto	el cubierto
 atropellar	atropellar
-ltienda	ltienda
+la tienda	la tienda
 el cuňado	el cuňado
 el corriente	el corriente
 conformar	conformar
@@ -12,7 +12,7 @@ enterarse	enterarse
 afirmar	afirmar
 jubilado	jubilado
 jubilo	jubilo
-lsábana	lsábana
+la sábana	la sábana
 apretada	apretada
 las pestaňas	las pestaňas
 conservar	conservar
@@ -24,8 +24,6 @@ chaleco	chaleco
 fregar	fregar
 check-in desk	check-in desk
 boarding card/pass	boarding card/pass
-petrol station	petrol station
-traffic lights	traffic lights
 petrol station	petrol station
 traffic lights	traffic lights
 rush hour	rush hour
@@ -43,10 +41,10 @@ girar los ojos	girar los ojos
 aňadir	aňadir
 aňojo	aňojo
 apostar por	apostar por
-pasar laspiradora	pasar laspiradora
+pasar la aspiradora	pasar la aspiradora
 arrugado	arrugado
 batir	batir
-bolleríindustrial	bolleríindustrial
+bollería industrial	bollería industrial
 cocer, cocinar	cocer, cocinar
 competidor	competidor
 concertar	concertar
@@ -59,14 +57,13 @@ cucharada	cucharada
 decorar	decorar
 enfriar	enfriar
 envejecimiento	envejecimiento
-esperanzde vida	esperanzde vida
-fregar	fregar
+esperanza de vida	esperanza de vida
 freír	freír
 fuego lento	fuego lento
 furgoneta	furgoneta
 grabar	grabar
 guiso	guiso
-hábialimenticio	hábialimenticio
+hábito alimenticio	hábito alimenticio
 hierbabuena	hierbabuena
 incorporación	incorporación
 instantáneo	instantáneo
@@ -84,7 +81,7 @@ puré	puré
 raíz	raíz
 reflejar	reflejar
 reposar	reposar
-respeca	respeca
+respecto a	respecto a
 retirar del fuego	retirar del fuego
 reunir	reunir
 rodaja	rodaja
@@ -123,16 +120,16 @@ talk something over	talk something over
 talk down to	talk down to
 tell off	tell off
 tell apart	tell apart
-prep: be amazed	prep: be amazed
-prep: campaign	prep: campaign
+prep: to be amazed	prep: to be amazed
+prep: a campaign	prep: a campaign
 prep: an approval	prep: an approval
 prep: experienced&nbsp;	prep: experienced&nbsp;
-prep: be infected	prep: be infected
-prep: demand	prep: demand
-prep: owe	prep: owe
-prep: lecture&nbsp;	prep: lecture&nbsp;
-prep: be well-known	prep: be well-known
-prep: have an opportunity&nbsp;	prep: have an opportunity&nbsp;
+prep: to be infected	prep: to be infected
+prep: a demand	prep: a demand
+prep: to owe	prep: to owe
+prep: a lecture&nbsp;	prep: a lecture&nbsp;
+prep: to be well-known	prep: to be well-known
+prep: to have an opportunity&nbsp;	prep: to have an opportunity&nbsp;
 prep: typical&nbsp;	prep: typical&nbsp;
 prodigality	prodigality
 lutanist	lutanist
@@ -163,38 +160,3 @@ enseñanza	enseñanza
 hospedar	hospedar
 euthymia	euthymia
 pig pen	pig pen
-grouchy	grouchy
-flojo	flojo
-lalmohada	lalmohada
-spectacle	spectacle
-cinta	cinta
-slur	slur
-slew	slew
-gloat	gloat
-sterling	sterling
-solstice	solstice
-lento	lento
-meter	meter
-relinquish	relinquish
-ltienda	ltienda
-estrecho	estrecho
-adept	adept
-shabby	shabby
-shrine	shrine
-lcintura	lcintura
-lcuenta	lcuenta
-el cubierto	el cubierto
-desarrollo	desarrollo
-atropellar	atropellar
-prep: be amazed	prep: be amazed
-prep: campaign	prep: campaign
-prep: an approval	prep: an approval
-prep: experienced&nbsp;	prep: experienced&nbsp;
-prep: be infected	prep: be infected
-prep: demand	prep: demand
-prep: owe	prep: owe
-prep: lecture&nbsp;	prep: lecture&nbsp;
-prep: be well-known	prep: be well-known
-prep: have an opportunity&nbsp;	prep: have an opportunity&nbsp;
-prep: typical&nbsp;	prep: typical&nbsp;
-undefined	undefined
