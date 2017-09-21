@@ -1,18 +1,23 @@
 {
-  "name": "anki-sort-by-frequency",
-  "version": "1.0.0",
-  "description": "Sorts Anki cards by frequency",
-  "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/JouzaLoL/anki-sort-by-frequency.git"
-  },
-  "author": "Josef Vacek",
-  "license": "ISC",
-  "dependencies": {
-    "JSONStream": "^1.3.1",
-    "array-unique": "^0.3.2",
-    "jsonfile": "^3.0.1"
-  }
+	"name": "anki-sort-by-frequency",
+	"version": "1.0.0",
+	"description": "Sorts Anki cards by frequency",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/JouzaLoL/anki-sort-by-frequency.git"
+	},
+	"author": "Josef Vacek",
+	"license": "ISC",
+	"dependencies": {
+		"JSONStream": "^1.3.1",
+		"array-unique": "^0.3.2",
+		"jsonfile": "^3.0.1"
+	},
+	"devDependencies": {
+		"eslint": "^4.7.1"
+	}
 }
